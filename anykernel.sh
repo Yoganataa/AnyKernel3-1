@@ -16,6 +16,8 @@ device.name3=equuleus
 device.name4=perseus
 device.name5=polaris
 device.name6=ursa
+device.name7=surya
+device.name8=karna
 supported.versions=
 supported.patchlevels=
 '; } # end properties
